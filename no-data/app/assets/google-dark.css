@@ -1,0 +1,22 @@
+:root { color-scheme: dark !important; }
+html, body, #main, #cnt, #rcnt, #center_col, #search, #rhs, #appbar,
+#top_nav, #hdtb, #bottomads, #foot, #fbar, footer {
+  background-color: #15171c !important;
+  color: #e8eaed !important;
+}
+body a:link, #search a h3 { color: #8ab4f8 !important; }
+body a:visited, #search a:visited h3 { color: #c9a7f5 !important; }
+#search div, #search span, #search p, #search cite,
+#rhs div, #rhs span, #appbar, #result-stats, #hdtb a {
+  color: #d3d7df !important;
+}
+input, textarea, select, button, [role="search"], [role="combobox"],
+[role="listbox"], [role="dialog"], [role="menu"],
+.RNNXgb, .aajZCb, .A8SBwf, .minidiv .sfbg, .sfbg, .g, .Gx5Zad {
+  background-color: #24272e !important;
+  color: #e8eaed !important;
+  border-color: #535964 !important;
+}
+input::placeholder, textarea::placeholder { color: #aeb6c4 !important; }
+[role="option"] { background-color: #24272e !important; color: #e8eaed !important; }
+[role="option"]:hover, [aria-selected="true"] { background-color: #363d49 !important; }

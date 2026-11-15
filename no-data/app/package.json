@@ -1,0 +1,12 @@
+{
+  "name": "the-internet",
+  "productName": "TheInternet",
+  "version": "1.4.3",
+  "author": "Notsitron",
+  "description": "Private browser engine for the Blade & Sorcery mod The Internet",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "@ghostery/adblocker-electron": "2.20.3"
+  }
+}
