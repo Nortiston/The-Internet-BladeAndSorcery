@@ -1,0 +1,12 @@
+{
+  "name": "the-internet-local-data",
+  "productName": "TheInternet",
+  "version": "1.4.3-localdata.1",
+  "author": "Notsitron",
+  "description": "Local-data browser engine for The Internet mod; saves website cookies and site storage in the mod folder",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "@ghostery/adblocker-electron": "2.20.3"
+  }
+}
